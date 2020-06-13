@@ -8,3 +8,13 @@ body{
     background: black;
     color: #fff;
 }
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.container > button{
+    height: 20vh;
+    width: 20vw;
+}
