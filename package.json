@@ -1,0 +1,19 @@
+{
+  "name": "motion_music_challenge",
+  "version": "1.0.0",
+  "description": "Create an application that tracks a user's face/body movement and makes some sort of sound in response.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinesandpixels/motion_music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/machinesandpixels/motion_music/issues"
+  },
+  "homepage": "https://github.com/machinesandpixels/motion_music#readme"
+}
