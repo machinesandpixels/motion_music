@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/machinesandpixels/motion_music/issues"
   },
-  "homepage": "https://github.com/machinesandpixels/motion_music#readme"
+  "homepage": "https://github.com/machinesandpixels/motion_music#readme",
+  "dependencies": {
+    "animate.css": "^4.1.0"
+  }
 }
